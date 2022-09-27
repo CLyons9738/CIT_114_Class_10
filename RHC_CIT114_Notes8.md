@@ -1,3 +1,4 @@
+# Week 10 CIT 114
 ### What is a Database?
 * Shared collection of relate d data used to support the activities of a particular APP
 * Used to get information quickly
